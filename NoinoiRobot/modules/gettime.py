@@ -98,11 +98,11 @@ dispatcher.add_handler(TIME_HANDLER)
 __mod_name__ = "ᴛɪᴍᴇ"
 
 __help__ = """
-*𝗣𝗟𝗨𝗚𝗜𝗡𝗦 𝗙𝗥𝗢𝗠 𝗡𝗢𝗜𝗡𝗢𝗜 𝗕𝗢𝗧 📚*
+*𝗣𝗟𝗨𝗚𝗜𝗡𝗦 𝗙𝗥𝗢𝗠 𝗕𝗢𝗧 📚*
 
 /time - `TO GET TIME FOR COUNTRY.`
 
-*🌸 𝗣𝗢𝗪𝗘𝗗 𝗕𝗬 𝗡𝗢𝗜𝗡𝗢𝗜 𝗠𝗨𝗦𝗜𝗖 𝗣𝗟𝗔𝗬𝗘𝗥*
+*🌸 𝗣𝗢𝗪𝗘𝗗 𝗕𝗬 **@SEVEN_7_RING** 𝗠𝗨𝗦𝗜𝗖 𝗣𝗟𝗔𝗬𝗘𝗥*
 """
 
 __command_list__ = ["time"]
