@@ -20,7 +20,8 @@ TRUTH = (
 )
 
 DARE = (
-    "Tampilkan foto paling memalukan di ponsel Anda"
+    "Kiss @herox_xd",
+    "Tampilkan foto paling memalukan di ponsel Anda",
     "Tampilkan lima orang terakhir yang Anda kirimi SMS dan apa isi pesannya",
     "Biarkan seluruh grup DM seseorang dari akun Instagram Anda",
     "Makan bawang putih mentah",
