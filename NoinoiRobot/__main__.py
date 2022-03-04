@@ -77,11 +77,11 @@ def get_readable_time(seconds: int) -> str:
 NOINOI_IMG = "https://telegra.ph/file/b1450b7803b0faa26cc25.jpg"
 
 PM_START_TEXT = """
-**ɪ ᴀᴍ ɴᴏɪɴᴏɪ🌸🤖** [ㅤ](https://telegra.ph/file/b1450b7803b0faa26cc25.jpg)
+`Hey there Am Phantom !! How are you ` [ㅤ](https://telegra.ph/file/b1450b7803b0faa26cc25.jpg)
 ️➖➖➖➖➖➖➖➖➖➖➖➖➖
-**sᴜᴘᴇʀғᴀsᴛ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ 🌸. ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs!!**
+`Am a Grp management bot and a vc music player too My master Here !!` [</Herox>](https://t.me/herox_xd)
 ️➖➖➖➖➖➖➖➖➖➖➖➖➖
-☉ **ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ.**
+☉ `Click the below buttons for find out more about me ok ?`
 """
 
 buttons = [
