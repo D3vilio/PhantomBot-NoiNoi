@@ -664,7 +664,7 @@ __help__ = """
 *Note:* Night Mode chats get Automatically closed at 12 am(IST)
 and Automatically openned at 6 am(IST) To Prevent Night Spams.
 
-🌸 𝗣𝗢𝗪𝗘𝗗 𝗕𝗬 𝗡𝗢𝗜𝗡𝗢𝗜 𝗠𝗨𝗦𝗜𝗖 𝗣𝗟𝗔𝗬𝗘𝗥
+🌸 𝗣𝗢𝗪𝗘𝗗 𝗕𝗬 **@SEVEN_7_RING** 𝗠𝗨𝗦𝗜𝗖 𝗣𝗟𝗔𝗬𝗘𝗥
 """
 
 ADMINLIST_HANDLER = DisableAbleCommandHandler("admins", adminlist)
